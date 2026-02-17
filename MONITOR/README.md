@@ -67,20 +67,13 @@ Export your conversations in multiple formats with a single click:
 
 ## 📦 Installation
 
-### Option 1: Chrome Web Store (Recommended)
-
-1. Visit the [Green Prompt](https://chrome.google.com/webstore/detail/deepseek-chat-exporter/mgmakgggdndagmammflkidclcckiijmk) page on Chrome Web Store
-2. Click **"Add to Chrome"**
-3. Confirm by clicking **"Add extension"**
-4. ✅ Done! Visit [chat.deepseek.com](https://chat.deepseek.com) to start using
-
 ### Option 2: Install from Source
 
 Perfect for developers or if you want to inspect the code:
 
 ```bash
 # Clone the repository
-git clone https://github.com/ypyf/deepseek-chat-exporter.git
+git clone https://github.com/AstroIshu/GreenPrompt
 cd deepseek-chat-exporter
 ```
 
@@ -493,3 +486,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [🌱 Green Prompt]• Privacy First • Local Only • Open Source
 
 </div>
+
